@@ -137,3 +137,12 @@ Email: jordan.belom@institutsaintjean.org
 ####################################################################################
 Login:megaing (verdianemegaing@gmail.com)
 Nom complet: Megaing pewo darole
+
+####################################################################################
+
+Login : Paul2Tchawa 
+
+Nom Complet : Tchawa Paul II Dickens
+
+Email: paul.tchawa@institutsaintjean.org
+
